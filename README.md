@@ -1,6 +1,6 @@
 ## Smoke Detector Project
 
-The **Smoke Detector Project** is built using an Arduino Uno board, an MQ-2 smoke sensor, a Bluetooth module, a 16x2 LCD display, LEDs, and a buzzer. This project is designed to detect smoke in the environment and alert the user via the LCD display, LEDs, and buzzer. Additionally, the Bluetooth module enables remote monitoring and notifications on a mobile device.
+The **Smoke Detector Project** is built using an Arduino Uno board, an MQ-2 smoke sensor, a Bluetooth module, a 16x2 LCD display, LEDs, and a buzzer. This project is designed to detect smoke in the environment and alert the user via the LCD display, LEDs, and buzzer.
 
 The system provides an affordable, user-friendly, and efficient solution for detecting and alerting smoke presence in enclosed spaces, showcasing how microcontrollers and sensors can create practical systems for real-world applications.
 
