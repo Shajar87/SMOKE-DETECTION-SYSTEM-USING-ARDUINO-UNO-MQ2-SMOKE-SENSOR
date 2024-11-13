@@ -10,4 +10,4 @@ The system provides an affordable, user-friendly, and efficient solution for det
 - **Visual Alerts**: LEDs provide instant feedback when smoke levels exceed the threshold.
 - **Audible Alarm**: The buzzer emits an alert sound when smoke levels reach a dangerous level.
 
-Overall, this project delivers a simple and effective solution for detecting smoke and hazardous gases in real-time, with the added benefit of remote monitoring.
+Overall, this project delivers a simple and effective solution for detecting smoke and hazardous gases in real-time.
